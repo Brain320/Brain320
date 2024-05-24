@@ -1,5 +1,5 @@
 ##👋 Hey
-  - I am Brain R.Brown, 26-years-old American web developer.
+  - I am Brain R.Brown, 26-years-old Ukraine web developer.
   I'm working on IT field for 9 years. I graduated from Northwestern University and majored Computer Science.
 
 ##⚡Skills
